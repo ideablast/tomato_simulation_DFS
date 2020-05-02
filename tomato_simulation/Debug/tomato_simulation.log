@@ -1,0 +1,6 @@
+﻿  Basic_func.c
+C:\Users\songd\Documents\Visual Studio 2019\tomato_simulation\Basic_func.c(62,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\songd\Documents\Visual Studio 2019\tomato_simulation\Basic_func.c(62,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  main.c
+  코드를 생성하고 있습니다...
+  tomato_simulation.vcxproj -> C:\Users\songd\Documents\Visual Studio 2019\tomato_simulation\Debug\tomato_simulation.exe
